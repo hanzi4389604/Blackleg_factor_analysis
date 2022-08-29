@@ -6,3 +6,8 @@ As the dataset is fairly small, data augmentation and k-fold cross validation te
 There are three sets of factors. The 1st set is weather dataset which contain humidity, wind speed, rain fall, min temperature, and max temperature. The 2nd dataset is pests, including flea beetle, maggot root incidence, and maggot root severity. The 3rd set of factor include crop rotation history of 2017,2018,2019 and 2020. In the analysis, different sets of factor, except weather data, were deleted to observed the impacts to the final model performance. Thus, the analysis was conducted based on four types of datasets and they are 'full','no_pest','no_rotation', and 'weather_oinly' 
 
 This project mainly exploited NLP models to process the data. The models include CNN, LSTM, Transformer, C-RNN, TextCNN, LSTM-Attention, and LSTM-adversial. The results were visulized and can be found in the folder of /weights  
+
+Environment:
+python: 3.7.4
+Cuda: 10.2 
+PyTorch: 1.10.1
