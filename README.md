@@ -8,6 +8,9 @@ There are three sets of factors. The 1st set is weather dataset which contain hu
 This project mainly exploited NLP models to process the data. The models include CNN, LSTM, Transformer, C-RNN, TextCNN, LSTM-Attention, and LSTM-adversial. The results were visulized and can be found in the folder of /weights  
 
 Environment:
+
 python: 3.7.4
+
 Cuda: 10.2 
+
 PyTorch: 1.10.1
