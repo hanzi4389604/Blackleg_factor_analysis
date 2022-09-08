@@ -14,3 +14,10 @@ python: 3.7.4
 Cuda: 10.2 
 
 PyTorch: 1.10.1
+
+# Examples results. 
+The results were produced by CNN model with full dataset. This will demostrate how results would be like with each of the models and datasets. 
+
+Results in 3D:
+
+![Alt text](https://github.com/hanzi4389604/Blackleg_factor_analysis/blob/main/3D1%20(2).png)
