@@ -21,3 +21,7 @@ The results were produced by CNN model with full dataset. This will demostrate h
 Results in 3D:
 
 ![Alt text](https://github.com/hanzi4389604/Blackleg_factor_analysis/blob/main/3D1%20(2).png)
+
+Results in 2D heatmap
+
+![Alt text](https://github.com/hanzi4389604/Blackleg_factor_analysis/blob/main/2D_1%20(3).png)
